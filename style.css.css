@@ -331,8 +331,10 @@ nav .fa-solid {
         background-image: url(backgroundforphone.jpg.jpg);
     }
     .header-text {
-        margin-top:100%;
-        font-size:10px
+        margin-top:40%;
+        font-size:10px;
+        text-align:center;
+        padding:20px;
     }
     .header-text h1{
         font-size:30px;
